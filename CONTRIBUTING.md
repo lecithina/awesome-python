@@ -1,5 +1,7 @@
 # Contributing
 
+"Ach du kriegst die Motten!"
+
 Your contributions are always welcome!
 
 ## Guideline
